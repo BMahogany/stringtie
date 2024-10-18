@@ -1,4 +1,5 @@
 ![alt text](https://img.shields.io/badge/License-MIT-blue.svg "MIT License")
+This is a fork purely for archiving purposes. All of the code was written by Gpertea
 
 ## StringTie: efficient transcript assembly and quantitation of RNA-Seq data
 
